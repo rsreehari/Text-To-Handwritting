@@ -55,6 +55,4 @@ A tool that converts digital text into handwriting-like images. Perfect for crea
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
