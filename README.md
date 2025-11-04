@@ -22,7 +22,7 @@ A tool that converts digital text into handwriting-like images. Perfect for crea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-to-handwriting.git
+   git clone https://github.com/rsreehari/text-to-handwriting.git
    cd text-to-handwriting
    ```
 
