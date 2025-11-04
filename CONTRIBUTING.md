@@ -2,26 +2,61 @@
 
 The project is built with basic web setup (HTML, CSS, and JavaScript).
 
-## 🐨 Local Setup
+## 🐨 Contributing to Text to Handwriting
 
-- [Fork](https://github.com/rsreehari/text-to-handwriting/fork) this repository.
+Thank you for your interest in contributing to Text to Handwriting! We appreciate your time and effort in making this project better.
 
-*Note: You need NodeJS installed in your machine to run formatter and server*
+## Getting Started
 
-```
-git clone https://github.com/:your-github-username/text-to-handwriting
-cd text-to-handwriting
-npm install
-npm run dev
-```
+1. Fork the repository on GitHub
+2. Clone your forked repository:
+   ```bash
+   git clone https://github.com/rsreehari/Text-To-Handwritting.git
+   cd Text-To-Handwritting
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## 🤗 Hello First-time Contributors
+## Making Changes
 
-There are lot of resources (articles, courses, videos) available for getting started with git and GitHub you can search and follow any of the resource you like.
+1. Create a new branch for your changes:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+2. Make your changes
+3. Run tests (if available)
+4. Commit your changes with a clear commit message
+5. Push your changes to your fork
+6. Open a pull request to the main repository
 
-- You can pick any of the issues from [Issues](https://github.com/rsreehari/text-to-handwriting/issues) or If you feel like it needs extra feature or if you find bug, you can create your own issue.
+## Code Style
 
+- Follow the existing code style
+- Keep code clean and well-documented
+- Add comments where necessary to explain complex logic
 
-Lastly, It is fine if you mess something up. If there is anything wrong in the PR I will let you know how to fix that in comments of the PR.
+## Reporting Issues
 
-If you are still scared to drop a PR or need any help, you can always drop me a message on my [Twitter @saurabhcodes](https://twitter.com/saurabhcodes) or drop me an email at saurabhdaware99@gmail.com.
+When reporting issues, please include:
+- A clear description of the issue
+- Steps to reproduce the issue
+- Expected behavior
+- Actual behavior
+- Screenshots (if applicable)
+
+## Pull Requests
+
+- Keep pull requests focused on a single feature or bug fix
+- Update documentation as needed
+- Ensure all tests pass
+- Reference any related issues
+
+## Questions?
+
+If you have any questions, feel free to open an issue in the repository.
